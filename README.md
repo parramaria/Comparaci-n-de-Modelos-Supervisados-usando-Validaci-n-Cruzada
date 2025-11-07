@@ -1,4 +1,4 @@
-# Comparación de Modelos Supervisados usando-Validación Cruzada
+# Comparación de Modelos Supervisados usando Validación Cruzada
 Trabajo N°2
 ## Autor: Maria Paula Sánchez parra
 
